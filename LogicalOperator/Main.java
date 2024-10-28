@@ -27,6 +27,8 @@ public class Main {
             System.out.println("You chose nothing");
         }
 
+        scanner.close();
+
     }
     
 }

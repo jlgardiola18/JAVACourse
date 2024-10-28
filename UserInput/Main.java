@@ -14,5 +14,7 @@ public class Main {
         System.out.println("Fck you " + name);
         System.out.println("Fck you " + age + " times!");
 
+        scanner.close();
+
     }
 }
